@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Ufuk - aka [karboran] 👋
 
-<!--
-**karborantr/karborantr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=karboran)
 
-Here are some ideas to get you started:
+## I'm a Cat Father, Node Amateur, and Search and Rescue Educater Trainer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some Node Testnet's.
+- 🌱 I’m currently learning Blockchain
+- 📝 I regularly write articles about DeFi.
+- 👯 I’m looking to collaborate with other content creators
+- 🤔 I’m looking for help with L1 Relayers and Cosmos Tendermint.
+- ⚡ Fun fact: I love to play World of Warships  
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/karboran#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/karboran#gh-dark-mode-only)
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=karborantr&show_icons=true&theme=radical)
